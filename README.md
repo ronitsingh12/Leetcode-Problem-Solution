@@ -6,6 +6,7 @@ This is an Repository where I will regularly add solutions of leetcode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -14,10 +15,12 @@ This is an Repository where I will regularly add solutions of leetcode problems.
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0189-rotate-array) |
 ## Math
 |  |
@@ -28,4 +31,12 @@ This is an Repository where I will regularly add solutions of leetcode problems.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0189-rotate-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
