@@ -27,6 +27,7 @@ This is an Repository where I will regularly add solutions of leetcode problems.
 | ------- |
 | [0007-reverse-integer](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,4 +40,12 @@ This is an Repository where I will regularly add solutions of leetcode problems.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
