@@ -11,6 +11,7 @@ This is an Repository where I will regularly add solutions of leetcode problems.
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -31,6 +32,7 @@ This is an Repository where I will regularly add solutions of leetcode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
