@@ -8,6 +8,7 @@ This is an Repository where I will regularly add solutions of leetcode problems.
 | ------- |
 | [0169-majority-element](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -18,12 +19,14 @@ This is an Repository where I will regularly add solutions of leetcode problems.
 | ------- |
 | [0169-majority-element](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -31,6 +34,7 @@ This is an Repository where I will regularly add solutions of leetcode problems.
 | [0066-plus-one](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,8 +52,13 @@ This is an Repository where I will regularly add solutions of leetcode problems.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0231-power-of-two) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
