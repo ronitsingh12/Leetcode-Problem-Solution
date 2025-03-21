@@ -21,12 +21,14 @@ This is an Repository where I will regularly add solutions of leetcode problems.
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0189-rotate-array) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0231-power-of-two) |
 ## Two Pointers
