@@ -32,6 +32,7 @@ This is an Repository where I will regularly add solutions of leetcode problems.
 | ------- |
 | [0007-reverse-integer](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0268-missing-number) |
@@ -61,4 +62,12 @@ This is an Repository where I will regularly add solutions of leetcode problems.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
