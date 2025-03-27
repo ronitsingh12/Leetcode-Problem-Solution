@@ -20,6 +20,7 @@ This is an Repository where I will regularly add solutions of leetcode problems.
 | [0169-majority-element](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0268-missing-number) |
+| [0948-sort-an-array](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0948-sort-an-array) |
 ## Array
 |  |
 | ------- |
@@ -27,6 +28,7 @@ This is an Repository where I will regularly add solutions of leetcode problems.
 | [0169-majority-element](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0268-missing-number) |
+| [0948-sort-an-array](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0948-sort-an-array) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +47,7 @@ This is an Repository where I will regularly add solutions of leetcode problems.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0169-majority-element) |
+| [0948-sort-an-array](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -70,4 +73,24 @@ This is an Repository where I will regularly add solutions of leetcode problems.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0070-climbing-stairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0948-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
