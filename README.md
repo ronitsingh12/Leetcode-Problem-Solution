@@ -30,6 +30,7 @@ This is an Repository where I will regularly add solutions of leetcode problems.
 | [0169-majority-element](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0268-missing-number) |
+| [0739-daily-temperatures](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0948-sort-an-array) |
 ## Math
 |  |
@@ -98,10 +99,15 @@ This is an Repository where I will regularly add solutions of leetcode problems.
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
