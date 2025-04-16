@@ -113,4 +113,16 @@ This is an Repository where I will regularly add solutions of leetcode problems.
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0739-daily-temperatures) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
