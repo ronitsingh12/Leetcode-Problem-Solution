@@ -14,6 +14,7 @@ This is an Repository where I will regularly add solutions of leetcode problems.
 | ------- |
 | [0125-valid-palindrome](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0394-decode-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
@@ -64,6 +65,7 @@ This is an Repository where I will regularly add solutions of leetcode problems.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0394-decode-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,6 +101,7 @@ This is an Repository where I will regularly add solutions of leetcode problems.
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ronitsingh12/Leetcode-Problem-Solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
